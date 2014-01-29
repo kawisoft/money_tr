@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e40fd2a-0b8a-4f38-bb27-67134115faa7" name="Default" comment="installed new files&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/new.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-    </list>
+    <list default="true" id="7e40fd2a-0b8a-4f38-bb27-67134115faa7" name="Default" comment="installed new files&#10;" />
     <ignored path="money_tr.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,7 +53,7 @@
       <file leaf-file-name="posts_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="7" selection-start="434" selection-end="434" vertical-scroll-proportion="0.52884614" vertical-offset="0" max-vertical-offset="936">
+            <state line="16" column="0" selection-start="236" selection-end="236" vertical-scroll-proportion="0.25641027" vertical-offset="0" max-vertical-offset="936">
               <folding />
             </state>
           </provider>
@@ -287,7 +283,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eventtrac_4.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kawicms/dev" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -420,7 +416,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="7" selection-start="434" selection-end="434" vertical-scroll-proportion="0.52884614" vertical-offset="0" max-vertical-offset="936">
+        <state line="16" column="0" selection-start="236" selection-end="236" vertical-scroll-proportion="0.25641027" vertical-offset="0" max-vertical-offset="936">
           <folding />
         </state>
       </provider>

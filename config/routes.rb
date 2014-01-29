@@ -3,6 +3,7 @@ MoneyTr::Application.routes.draw do
   get "members/index"
 
   resources :posts
+  
 
 
 
